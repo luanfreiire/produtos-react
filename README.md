@@ -10,4 +10,4 @@ O projeto é composto por diversos componentes e faz uso de Hooks, React Router,
   <li>React</li>
 </ul>
 
-<h2>🔗</h2>
+<h2>🔗 produtos-react.vercel.app</h2>
